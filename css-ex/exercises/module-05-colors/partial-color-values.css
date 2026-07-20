@@ -38,7 +38,7 @@
 
 /* Task 5 — Use hsl: background purple (hue ~270, saturation 80%, lightness 50%), text white */
 .hsl-val {
-  background:{color: hsl(270, 80%, 50%);} ;
+  background-color: hsl(270, 80%, 50%) ;
   color: white;
   padding: 12px;
 }
