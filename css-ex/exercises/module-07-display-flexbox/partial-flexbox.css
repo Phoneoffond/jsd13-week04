@@ -4,7 +4,7 @@
    ============================================ */
 /* Task 1 — Navigation: logo on left, links on right */
 .nav-bar {
-  _____: flex;
+  display: flex;
   _____: space-between;
   _____: center;
   background: #2d3436;
@@ -15,12 +15,12 @@
   text-decoration: none;
 }
 .nav-bar__links {
-  _____: flex;
+  display: flex;
   _____: 16px;
 }
 /* Task 2 — Card grid: 3 cards in a row, equal width, gap 16px */
 .card-grid {
-  _____: flex;
+  display: flex;
   _____: 16px;
 }
 .card-grid__item {
@@ -31,7 +31,7 @@
 }
 /* Task 3 — Center content both ways in a 200px tall box */
 .center-me {
-  _____: flex;
+  display: flex;
   _____: center;
   _____: center;
   height: 200px;
@@ -39,7 +39,7 @@
 }
 /* Task 4 — Equal height columns */
 .equal-height {
-  _____: flex;
+  display: flex;
   _____: 16px;
 }
 .eq-col {
