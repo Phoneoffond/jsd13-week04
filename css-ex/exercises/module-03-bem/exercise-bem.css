@@ -57,4 +57,5 @@
 .card--active
 {
   border:blue ;
+  padding: 16px;
 }

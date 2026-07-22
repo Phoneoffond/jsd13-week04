@@ -11,6 +11,7 @@
    Fix: remove the extra specificity from the first selector.
 */
 
+
 .highlight {
   color: red;
 }

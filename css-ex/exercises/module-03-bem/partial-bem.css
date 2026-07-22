@@ -27,7 +27,7 @@
 }
 
 /* Task 4: Select the profile FOLLOW modifier button — green background */
-.profile--button {
+.profile--button--follow {
   background: #2ea44f;
   color: white;
   border: none;
