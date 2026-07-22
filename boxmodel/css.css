@@ -1,6 +1,23 @@
-div{
+.container{
     padding: 32px 64px 18px 49px;
     box-sizing: border-box;
     border: 1cm, black, solid;
     border-radius: 100px;
+    margin: 0 auto;
+
+}
+
+.special{
+    padding: 32px 64px 18px 49px;
+    box-sizing: border-box;
+    border: 1cm, black, solid;
+    border-radius: 100px;
+    margin: 0 auto;
+
+} 
+
+*{
+    padding: 0px;
+    margin: 0 px;
+    box-sizing: border-box;
 }
