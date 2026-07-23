@@ -1,0 +1,117 @@
+.card {
+  border: 1px solid black;
+  background-color: rgb(238, 238, 238);
+  padding: 0px 30px;
+  width: 1000px;
+  font-family: "Google Sans Flex", sans-serif;
+  font-size: 11px;
+  box-sizing: border-box;
+  height: 520px;
+  justify-content: space-between;
+}
+
+.head__card {
+  width: 800px;
+}
+
+.head__card > p {
+  text-transform: uppercase;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.content__card {
+  display: flex;
+}
+
+.Breadth__card {
+  width: 300px;
+  padding: 0px 10px;
+}
+
+.Depth__card {
+  width: 300px;
+  padding: 0px 10px;
+}
+
+.Durability__card {
+  width: 300px;
+  padding: 0px 10px;
+}
+
+.button__card {
+  border-radius: 10px;
+  padding: 8px;
+  box-shadow: 5px 5px black;
+}
+
+h1 {
+  margin-top: 10px;
+  font-size: 26px;
+}
+
+.Breadth__card > .percentage__card {
+  background-color: rgb(21, 137, 214);
+  border-radius: 20px;
+  width: 270px;
+  font-size: 64px;
+  font-weight: 650;
+  text-align: center;
+  margin: 10px 0px;
+  color: white;
+}
+
+.percentage__card {
+  background-color: rgb(0, 168, 0);
+  border-radius: 20px;
+  width: 150px;
+  font-size: 64px;
+  font-weight: 650;
+  text-align: center;
+  margin: 10px 0px;
+}
+
+.Breadth__card > .money__card {
+  background-color: rgb(21, 137, 214);
+  border-radius: 20px;
+  width: 230px;
+  font-size: 42px;
+  font-weight: 650;
+  text-align: center;
+  margin: 10px 0px;
+  padding: 5px 0px;
+  color: white;
+}
+
+.money__card {
+  background-color: rgb(0, 168, 0);
+  border-radius: 20px;
+  width: 230px;
+  font-size: 42px;
+  font-weight: 650;
+  text-align: center;
+  margin: 10px 0px;
+  padding: 5px 0px;
+}
+
+.p2__card,
+.p3__card {
+  font-weight: bold;
+}
+
+.Durability__detail__card{
+    display: flex;
+}
+.money__Durability__card{
+    background-color: rgb(243, 213, 80);
+    font-size: 36px;
+    font-weight: 700;
+    border-radius: 10px;
+    text-align: center;
+    margin: 0px;
+
+}
+
+.Durability__card{
+        padding: 0px 3px;
+}
